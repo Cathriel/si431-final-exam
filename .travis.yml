@@ -6,3 +6,7 @@ before_install:
 script: "./mvnw clean install"
 notifications:
  email: vasquezsolis.goycochea@gmail.com
+
+
+
+#comentario
